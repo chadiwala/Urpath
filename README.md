@@ -377,7 +377,7 @@ Want to know more about UrPath, our journey, initiatives, community, and impact?
 Explore our full profile to learn how UrPath started, what we built, and how we support students throughout their university journey.
 
 <p align="center">
-  <a href="assets/UrPath-Profile.pdf">
+  <a href="Urpath-.pdf">
     <strong>📄 View UrPath Profile</strong>
   </a>
 </p>
